@@ -32,12 +32,12 @@ Spring MVC
 - Bean Validation - Error Code, Object Error, Modify apply, Bean Validation Limit, Groups, Detach Form Transfer Objects
   ,Http Message Converter
 
-# [Spring-MVC-Practice-ver.1.2](https://github.com/emibgo2/Spring-MVC-Pratice-ver.1.2)  
+# [Spring-MVC-Practice-ver.1.2](https://github.com/emibgo2/Spring-MVC-Practice-ver.1.2)  
 ### Spring MVC Framework Principles of Core Technology
 
 - Repository, Thymeleaf, PRG (Post/Redirect/Get), RedirectAttributes
 
-# [Spring-MVC-Practice-ver.1.1](https://github.com/emibgo2/Spring-MVC-Pratice-ver.1.1)
+# [Spring-MVC-Practice-ver.1.1](https://github.com/emibgo2/Spring-MVC-Practice-ver.1.1)
 ### Spring MVC Framework Principles of Core Technology
 
 - Logging, Request Mapping, API, Basic Header inquiry,Query Param,
@@ -45,7 +45,7 @@ HTML Form, @RequestParam, @ModelAttribute, Plain Text, JSON,
 Static resource, View Template, HTTP API response, Message Converter,
 Request Mapping Handler Adapter
 
-# [Spring-MVC-Practice-ver.1.0](https://github.com/emibgo2/Spring-MVC-Pratice-ver.1.0)
+# [Spring-MVC-Practice-ver.1.0](https://github.com/emibgo2/Spring-MVC-Practice-ver.1.0)
 ### Spring MVC Framework Principles of Core Technology
 
 - Request Processing ( Get Query Param , POST HTML Form, Plain text, Json ),
